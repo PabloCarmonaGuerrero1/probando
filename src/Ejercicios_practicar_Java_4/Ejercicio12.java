@@ -1,4 +1,4 @@
-package Ejercicios_practicar_Java_3;
+package Ejercicios_practicar_Java_4;
 
 public class Ejercicio12 {
     public static void main(String[] args){
