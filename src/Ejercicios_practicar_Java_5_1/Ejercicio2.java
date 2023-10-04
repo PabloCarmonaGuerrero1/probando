@@ -18,11 +18,10 @@ public class Ejercicio2 {
             for (int j=0;j<num[i].length;j++){
                 System.out.print(num[i][j]+"         ");
                 if (j==num[i].length-1){
-                    System.out.print("Fila "+i);
+                    System.out.println("Fila "+i);
                 }
                 suma+=num[i][j];
             }
-            System.out.println("");
         }
         for(int i = 0; i<num[0].length;i++){
             System.out.print("Columna "+i+" ");
