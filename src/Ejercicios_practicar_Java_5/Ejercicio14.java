@@ -21,8 +21,6 @@ public class Ejercicio14 {
                 }
             }
         }
-        String[] dist = new String[8 - numcolores];
-
         for (int i = 0; i < pal.length; i++) {
             boolean d = false;
             for (int j = 0; j < colores.length; j++) {
